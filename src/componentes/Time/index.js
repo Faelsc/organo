@@ -2,7 +2,6 @@ import Colaborador from '../Colaborador'
 import './Time.css'
 
 const Time = (props) => {
-
     const css = {backgroundColor: props.corSecundaria}
     const borda = {borderColor: props.corPrimaria}
 
